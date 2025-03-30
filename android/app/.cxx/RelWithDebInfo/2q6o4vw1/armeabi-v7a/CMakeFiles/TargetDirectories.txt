@@ -1,0 +1,2 @@
+E:/Collage/Project/dprofiz/TRASHE/EXIEST_APP/New folder/trasheepartner/android/app/.cxx/RelWithDebInfo/2q6o4vw1/armeabi-v7a/CMakeFiles/edit_cache.dir
+E:/Collage/Project/dprofiz/TRASHE/EXIEST_APP/New folder/trasheepartner/android/app/.cxx/RelWithDebInfo/2q6o4vw1/armeabi-v7a/CMakeFiles/rebuild_cache.dir
